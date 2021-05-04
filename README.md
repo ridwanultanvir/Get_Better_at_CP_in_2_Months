@@ -1,5 +1,4 @@
 # Get_Better_CP_in_2_Months
-
 # Month 1
 
 ## Week 1
